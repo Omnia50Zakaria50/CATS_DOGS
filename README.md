@@ -1,2 +1,3 @@
 # SATS_DOGS
-A classification model to differentiate inقث cats and dogs
+A classification model to differentiate in recognizing cats and dogs
+using colab
